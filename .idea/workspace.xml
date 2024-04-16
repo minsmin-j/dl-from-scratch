@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84b00120-e5fc-493d-9f99-1b0bba4ad22c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dl-from-scratch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/and_gate_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02/gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/mnist_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/neural.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/newralnet_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/relu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/softmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/step_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/functions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2emDjU7N9SAyl3EdUxXInhImpGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.and_gate.executor": "Run",
+    "Python.and_gate_simple.executor": "Run",
+    "Python.mnist_show.executor": "Run",
+    "Python.neural.executor": "Run",
+    "Python.newralnet_mnist.executor": "Run",
+    "Python.relu.executor": "Run",
+    "Python.sigmoid.executor": "Run",
+    "Python.step_function.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84b00120-e5fc-493d-9f99-1b0bba4ad22c" name="Changes" comment="" />
+      <created>1712500994300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712500994300</updated>
+      <workItem from="1712501002793" duration="4064000" />
+      <workItem from="1712586454345" duration="1829000" />
+      <workItem from="1712629457832" duration="3931000" />
+      <workItem from="1712656905404" duration="601000" />
+      <workItem from="1713251132070" duration="2025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dl_from_scratch$step_function.coverage" NAME="step_function Coverage Results" MODIFIED="1712589186962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$sigmoid.coverage" NAME="sigmoid Coverage Results" MODIFIED="1712589594369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$newralnet_mnist.coverage" NAME="newralnet_mnist Coverage Results" MODIFIED="1713253518362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$neural.coverage" NAME="neural Coverage Results" MODIFIED="1712642733217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$and_gate.coverage" NAME="and_gate Coverage Results" MODIFIED="1712505812676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$and_gate_simple.coverage" NAME="and_gate_simple Coverage Results" MODIFIED="1712504213254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$relu.coverage" NAME="relu Coverage Results" MODIFIED="1712641303741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$mnist_show.coverage" NAME="mnist_show Coverage Results" MODIFIED="1713252857631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+  </component>
+</project>
