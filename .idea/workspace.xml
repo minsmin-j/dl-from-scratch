@@ -4,26 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b00120-e5fc-493d-9f99-1b0bba4ad22c" name="Changes" comment="ch02, ch03">
-      <change afterPath="$PROJECT_DIR$/ch04/gradient_1d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/gradient_2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/gradient_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/gradient_simplenet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/train_neuralnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/two_layer_net.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/gradient.py" afterDir="false" />
+    <list default="true" id="84b00120-e5fc-493d-9f99-1b0bba4ad22c" name="Changes" comment="ch04">
+      <change afterPath="$PROJECT_DIR$/ch05/buy_apple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/buy_apple_orange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/layer_naive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/train_neuralnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/layers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/mnist.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/mnist_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/mnist_show.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/neuralnet_mnist_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/neuralnet_mnist_batch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/newralnet_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/newralnet_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/relu.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/relu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/t10k-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/t10k-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/train-images-idx3-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/train-labels-idx1-ubyte.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/02Workspaces/PycharmProjects/dl-from-scratch/dataset",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -106,24 +94,40 @@
       <workItem from="1713251132070" duration="2025000" />
       <workItem from="1713255625816" duration="1524000" />
       <workItem from="1714395450796" duration="3889000" />
-      <workItem from="1714458554166" duration="1999000" />
+      <workItem from="1714458554166" duration="2443000" />
+      <workItem from="1714473806153" duration="1160000" />
+      <workItem from="1715011976523" duration="2366000" />
     </task>
+    <task id="LOCAL-00001" summary="ch04">
+      <option name="closed" value="true" />
+      <created>1714460970159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714460970159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ch04" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch04" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/dl_from_scratch$neuralnet_mnist_batch.coverage" NAME="neuralnet_mnist_batch Coverage Results" MODIFIED="1714397761655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$step_function.coverage" NAME="step_function Coverage Results" MODIFIED="1712589186962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$sigmoid.coverage" NAME="sigmoid Coverage Results" MODIFIED="1712589594369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$newralnet_mnist.coverage" NAME="newralnet_mnist Coverage Results" MODIFIED="1713254165601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$neural.coverage" NAME="neural Coverage Results" MODIFIED="1712642733217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
-    <SUITE FILE_PATH="coverage/dl_from_scratch$gradient_method.coverage" NAME="gradient_method Coverage Results" MODIFIED="1714402138874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$and_gate.coverage" NAME="and_gate Coverage Results" MODIFIED="1712505812676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$mnist_show.coverage" NAME="mnist_show Coverage Results" MODIFIED="1714396539197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$train_neuralnet.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1714460439571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$neuralnet_mnist_batch.coverage" NAME="neuralnet_mnist_batch Coverage Results" MODIFIED="1714397761655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/dl_from_scratch$gradient_method.coverage" NAME="gradient_method Coverage Results" MODIFIED="1714402138874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$and_gate_simple.coverage" NAME="and_gate_simple Coverage Results" MODIFIED="1712504213254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$relu.coverage" NAME="relu Coverage Results" MODIFIED="1713256460804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
     <SUITE FILE_PATH="coverage/dl_from_scratch$gradient_1d.coverage" NAME="gradient_1d Coverage Results" MODIFIED="1714402344931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
-    <SUITE FILE_PATH="coverage/dl_from_scratch$mnist_show.coverage" NAME="mnist_show Coverage Results" MODIFIED="1714396539197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
   </component>
 </project>
